@@ -3,7 +3,7 @@ El Multidimensional Scaling (MDS) es un método de reducción de dimensionalidad
 
     Entrada: Matriz de distancias DD entre NN puntos.
     Centrado doble:
-        Se crea la matriz de centrado ![imagen](https://github.com/user-attachments/assets/8cdb143b-b1ac-4e73-8afe-af9936158657)
+        Se crea la matriz de centrado https://github.com/user-attachments/assets/8cdb143b-b1ac-4e73-8afe-af9936158657
 
         Se obtiene la matriz ![imagen](https://github.com/user-attachments/assets/a99fced1-988e-434b-90ff-d992be866a60)
 
